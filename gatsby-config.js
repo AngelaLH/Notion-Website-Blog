@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Strata by HTML5 UP",
-    author: "Hunter Chang",
-    description: "A Gatsby.js Starter based on Strata by HTML5 UP"
+    title: "Angela Hollings Website",
+    author: "Angela Hollings",
+    description: "My Portfolio and Blog"
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -24,7 +24,7 @@ module.exports = {
         sourceConfig: [
           {
             name: 'posts',
-            table: 'https://www.notion.so/conradlin/1aa283fcd5ae4a73ba0f73c062de745e?v=6a40014bee144152b55203e2caf0c02e',
+            table: 'https://www.notion.so/angelas/402f07d9a2dc4b6da5a2dd2de9838354?v=c124e6391ac84fd58b39560c5c2c93f1',
             cacheType: 'html'
           }
         ]
