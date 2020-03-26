@@ -1,2 +1,4 @@
 
 *.ts
+*.exe
+node_modules/
